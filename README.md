@@ -2,7 +2,7 @@
 
 This project explores global participation in the FIFA Women’s World Cup through the lens of economic inequality. Using data on team qualifications and semi-final appearances from 1991 to 2019, the visualizations highlight disparities between high-income and lower-income nations.
 
-**Live Visualization**: [Check out on Tableau](https://public.tableau.com/authoring/IsittimetoreformtheFIFAWomensWorldCupqualificationformat/Dashboard1#1)
+**Live Visualization**: [Check out on Tableau](https://public.tableau.com/views/IsittimetoreformtheFIFAWomensWorldCupqualificationformat/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 🔍 Key Insights:
 - Only 36 out of 195 countries have qualified for at least one Women’s World Cup as of 2019.
